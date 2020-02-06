@@ -1,5 +1,12 @@
-php-pdftk
+php-mcpdf (fork of php-pdftk)
 =========
+
+Readme needs to update.
+
+###In brief:
+*pdftk* does not allow to render Unicode fonts into PDF form fields.
+
+*mcpdf* https://github.com/m-click/mcpdf does.
 
 [![Build Status](https://secure.travis-ci.org/mikehaertl/php-pdftk.png)](http://travis-ci.org/mikehaertl/php-pdftk)
 [![Latest Stable Version](https://poser.pugx.org/mikehaertl/php-pdftk/v/stable.svg)](https://packagist.org/packages/mikehaertl/php-pdftk)
