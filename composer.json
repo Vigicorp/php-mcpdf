@@ -1,5 +1,5 @@
 {
-    "name": "mikehaertl/php-pdftk",
+    "name": "pinetree/php-pdftk",
     "description": "A PDF conversion and form utility based on pdftk.",
     "keywords": ["pdf", "pdftk"],
     "type": "library",
@@ -8,6 +8,10 @@
         {
             "name": "Michael Haertl",
             "email": "haertl.mike@gmail.com"
+        },
+        {
+            "name": "Kirill Sosnin",
+            "email": "kirill.sosnin@gmail.com"
         }
     ],
     "require": {
