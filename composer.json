@@ -1,17 +1,17 @@
 {
-    "name": "pinetree/php-pdftk",
+    "name": "vigicorp/php-mcpdf",
     "description": "A PDF conversion and form utility based on pdftk.",
     "keywords": ["pdf", "pdftk"],
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Michael Haertl",
-            "email": "haertl.mike@gmail.com"
+            "name": "Ewan Martin",
+            "email": "ewan.martin@vigicorp.fr"
         },
         {
-            "name": "Kirill Sosnin",
-            "email": "kirill.sosnin@gmail.com"
+            "name": "Leo Daouk",
+            "email": "leo.daouk@vigicorp.fr"
         }
     ],
     "require": {
