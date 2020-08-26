@@ -1,6 +1,6 @@
 <?php
 
-namespace mikehaertl\pdftk;
+namespace Vigicorp\mcpdf;
 
 use ArrayObject;
 

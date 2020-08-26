@@ -1,6 +1,6 @@
 <?php
 
-namespace mikehaertl\pdftk;
+namespace Vigicorp\mcpdf;
 
 use mikehaertl\shellcommand\Command as BaseCommand;
 
