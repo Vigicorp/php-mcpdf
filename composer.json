@@ -32,7 +32,7 @@
     },
     "autoload": {
         "psr-4": {
-            "mikehaertl\\pdftk\\": "src/"
+            "Vigicorp\\mcpdf\\": "src/"
         }
     },
     "autoload-dev": {
